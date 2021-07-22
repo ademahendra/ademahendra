@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### wasup! 👋
+![stats](https://github-readme-stats.vercel.app/api?username=ademahendra&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ademahendra&hide=javascript,html&theme=radical&layout=compact)
+
+
 <!--
 **ademahendra/ademahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
